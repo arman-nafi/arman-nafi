@@ -5,10 +5,9 @@
 <p>
 - 🔭 I’m currently working on TMSS ICT Ltd. <br> 
 - 🌱 I’m currently learning Docker, Kubernetes <br>
-- 💬 Ask me about SQA Automation <>br
+- 💬 Ask me about SQA Automation <br>
 - 📫 How to reach me: armannafi22@gmail.com </p> 
 
-![Profile views](https://gpvc.arturio.dev/arman-nafi)
   
 Dedicated QA Automation Engineer bringing 4 years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). I have 4 years of work-related experience in Quality assurance. My areas of expertise extend to cover Web and Mobile Application QA, API Testing, Performance Testing, Penetration Testing, Test Plans and Test Cases Development.
 
@@ -46,5 +45,7 @@ Dedicated QA Automation Engineer bringing 4 years of experience and diligence to
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-nafi&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arman-nafi)  
+
+![Profile views](https://gpvc.arturio.dev/arman-nafi)
 
   

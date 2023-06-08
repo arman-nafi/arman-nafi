@@ -20,20 +20,20 @@ Dedicated QA Automation Engineer bringing 4 years of experience and diligence to
 •	Web and Mobile Application QA <br>
 •	Bug Tracking and Resolution <br>
 •	Continuous-Integration Testing <br>
+•	Code Reviews, Code Quality (SonarQube) <br>
 •	Defect Tracking and Reporting <br>
 •	Database Testing <br>
 •	API Testing (Postman) <br> 
-•	Load Testing (JMeter, Gatling) <br>
+•	Load Testing (JMeter, Gatling, K6) <br>
 •	Penetration Testing <br>
 •	Functional Testing <br>
 •	Selenium, SeleniumBase, PyTest <br>
 •	Appium <br>
 •	Jenkins <br>
 •	Jira <br>
-•	Version Control Systems: Git, Github, Bitbucket <br>
 •	MySQL <br>
-•	Code Reviews, Code Quality (SonarQube) <br>
-•	Time Management and Prioritization </p>
+•	Time Management and Prioritization <br>
+•	Version Control Systems: Git, Github, Bitbucket </p>
 
 
 

@@ -10,29 +10,29 @@
 
   
 Dedicated QA Automation Engineer bringing 4 years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). I have 4 years of work-related experience in Quality assurance. My areas of expertise extend to cover Web and Mobile Application QA, API Testing, Performance Testing, Penetration Testing, Test Plans and Test Cases Development.
-
+<p>
 ### Skills: 
-•	Cloud Management 
-•	Test Plans and Test Methodologies 
-•	Requirements Analysis 
-•	SDLC, STLC 
-•	Web and Mobile Application QA 
-•	Bug Tracking and Resolution 
-•	Continuous-Integration Testing 
-•	Defect Tracking and Reporting
-•	Database Testing 
-•	API Testing (Postman) 
-•	Load Testing (JMeter, Gatling) 
-•	Penetration Testing 
-•	Functional Testing 
-•	Selenium, SeleniumBase, PyTest 
-•	Appium 
-•	Jenkins 
-•	Jira 
-•	Version Control Systems: Git, Github, Bitbucket 
-•	MySQL 
-•	Code Reviews, Code Quality (SonarQube) 
-•	Time Management and Prioritization
+•	Cloud Management <br>
+•	Test Plans and Test Methodologies <br>
+•	Requirements Analysis <br>
+•	SDLC, STLC <br>
+•	Web and Mobile Application QA <br>
+•	Bug Tracking and Resolution <br>
+•	Continuous-Integration Testing <br>
+•	Defect Tracking and Reporting <br>
+•	Database Testing <br>
+•	API Testing (Postman) <br> 
+•	Load Testing (JMeter, Gatling) <br>
+•	Penetration Testing <br>
+•	Functional Testing <br>
+•	Selenium, SeleniumBase, PyTest <br>
+•	Appium <br>
+•	Jenkins <br>
+•	Jira <br>
+•	Version Control Systems: Git, Github, Bitbucket <br>
+•	MySQL <br>
+•	Code Reviews, Code Quality (SonarQube) <br>
+•	Time Management and Prioritization </p>
 
 
 

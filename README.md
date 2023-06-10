@@ -9,7 +9,7 @@
 - 📫 How to reach me: armannafi22@gmail.com </p> 
 
   
-Dedicated QA Automation Engineer bringing 4 years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). I have 4 years of work-related experience in Quality assurance. My areas of expertise extend to cover Web and Mobile Application QA, API Testing, Performance Testing, Penetration Testing, Test Plans and Test Cases Development.
+Dedicated QA Automation Engineer bringing 4 years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). My areas of expertise extend to cover Web and Mobile Application QA Automation, API Testing, Performance Testing, Penetration Testing, Database Testing, Test Plans and Test Cases Development.
 
 ### Skills & Experience: 
 <p>

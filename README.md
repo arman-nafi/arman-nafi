@@ -28,6 +28,7 @@ Dedicated QA Automation Engineer bringing 4 years of experience and diligence to
 •	Penetration Testing <br>
 •	Functional Testing <br>
 •	Selenium, SeleniumBase, PyTest <br>
+• Cypress <br>  
 •	Appium <br>
 •	Jenkins <br>
 •	Jira <br>

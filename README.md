@@ -9,32 +9,26 @@
 - 📫 How to reach me: armannafi22@gmail.com </p> 
 
   
-Dedicated QA Automation Engineer bringing 4 years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). My areas of expertise extend to cover Web and Mobile Application QA Automation, API Testing, Performance Testing, Penetration Testing, Database Testing, Test Plans and Test Cases Development.
+Dedicated QA Automation Engineer bringing 4+ years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). My areas of expertise extend to cover Web and Mobile Application QA Automation, API Testing, Performance Testing, Penetration Testing, Database Testing, Test Plans and Test Cases Development.
 
 ### Skills & Experience: 
 <p>
-•	Cloud Management <br>
-•	Test Plans and Test Methodologies <br>
-•	Requirements Analysis <br>
-•	SDLC, STLC <br>
-•	Web and Mobile Application QA <br>
-•	Bug Tracking and Resolution <br>
-•	Continuous-Integration Testing <br>
-•	Code Reviews, Code Quality (SonarQube) <br>
-•	Defect Tracking and Reporting <br>
-•	Database Testing <br>
-•	API Testing (Postman) <br> 
-•	Load Testing (JMeter, Gatling, K6) <br>
-•	Penetration Testing <br>
-•	Functional Testing <br>
-•	Selenium, SeleniumBase, PyTest <br>
-• Cypress <br>  
-•	Appium <br>
-•	Jenkins <br>
-•	Jira <br>
-•	MySQL <br>
-•	Time Management and Prioritization <br>
-•	Version Control Systems: Git, Github, Bitbucket </p>
+•	Test Planning: Scoping, estimates, strategy, presentation, coordination. <br>
+•	Test Case Management: Managing test cases with/without requirements/designed docs. <br>
+•	Defect Management: Tracking, Reporting, and defect triage. <br>
+•	Test Execution: Android/iOS Native and Web, Rest API. <br>
+•	Test Types: Functional, Regressions, Integration, System, UAT, Load/Stress/Performance Testing. <br>
+•	Automation Tools: Selenium Web Driver, SeleniumBase, Cypress, Appium, Pytest, Mocha, Jenkins. <br>
+•	Automation Language: Python, JavaScript. <br>
+•	Automated Apps: Native, Hybrid, Desktop and Web Applications. <br>
+•	API Tools: Postman. <br>
+•	Database: MariaDB, MySQL. <br>
+•	Performance Tools: JMeter, Gatling, K6. <br>
+•	Build and Release: Jenkins, Github. <br>
+•	Monitor/Logging: Grafana, Splunk. <br>
+•	Cloud: AWS, Linode, DigitalOcean. <br>
+•	Code Review: SonarQube. <br>
+ </p>
 
 
 

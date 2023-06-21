@@ -1,47 +1,59 @@
 ![SQA Automation Engineer](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/352539075_624627402711622_7659032182930767050_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEQmusAYdkAkR0MEUGp4DB0L3M6vPjKvxAvczq8-Mq_EEXJrp40Gj0XjxXRGVnWqKJyb0_gknf_GMXufgqF9Nx2&_nc_ohc=2ZCnCf6E6BYAX95GSZ4&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AfCxCxIJgA_fXMPdK_Jsb8gXgsH1KvwwZT_STpQoAEPPhg&oe=6486DEFD)
 
-### Hi, I'm Arman Hossain
-### SQA Automation Engineer
-<p>
-- 🔭 I’m currently working on TMSS ICT Ltd. <br> 
-- 🌱 I’m currently learning Docker, Kubernetes <br>
-- 💬 Ask me about SQA Automation <br>
-- 📫 How to reach me: armannafi22@gmail.com </p> 
-
-  
+# 💫 About Me:
 Dedicated QA Automation Engineer bringing 4+ years of experience and diligence to handle needs of large and complex products. Solid history in both manual and automated testing. I have a solid understanding of QA methodologies used in the industry and the Software Development Life Cycle (SDLC). My areas of expertise extend to cover Web and Mobile Application QA Automation, API Testing, Performance Testing, Penetration Testing, Database Testing, Test Plans and Test Cases Development.
 
-### Skills & Experience: 
-<p>
-•	Test Planning: Scoping, estimates, strategy, presentation, coordination. <br>
-•	Test Case Management: Managing test cases with/without requirements/designed docs. <br>
-•	Defect Management: Tracking, Reporting, and defect triage. <br>
-•	Test Execution: Android/iOS Native and Web, Rest API. <br>
-•	Test Types: Functional, Regressions, Integration, System, UAT, Load/Stress/Performance Testing. <br>
-•	Automation Tools: Selenium Web Driver, SeleniumBase, Cypress, Appium, Pytest, Mocha, Jenkins. <br>
-•	Automation Language: Python, JavaScript. <br>
-•	Automated Apps: Native, Hybrid, Desktop and Web Applications. <br>
-•	API Tools: Postman. <br>
-•	Database: MariaDB, MySQL. <br>
-•	Performance Tools: JMeter, Gatling, K6. <br>
-•	Build and Release: Jenkins, Github. <br>
-•	Monitor/Logging: Grafana, Splunk. <br>
-•	Cloud: AWS, Linode, DigitalOcean. <br>
-•	Code Review: SonarQube. <br>
- </p>
+
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=ef5350&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:armannafi22@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/armannafi2288/)  
+
+# 💻 Tech Stack:
+![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%17202C.svg?style=for-the-badge&logo=cypress&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%0A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=ffdd54) ![JMeter](https://img.shields.io/badge/jmeter-%D22128.svg?style=for-the-badge&logo=jmeter&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+### :office: &nbsp;WORK HISTORY
+
+##### **TMSS ICT Limited, SQA Automation Engineer**, 01/2019 - Present | West Kazipara, Mirpur-10, Dhaka
+##### **TECHNOLOGY USED:** PYTHON, JAVASCRIPT, SELENIUM, CYPRESS, APPIUM, JMeter, POSTMAN, GATLING, JENKINS, DOCKER, GIT, GitHub, JIRA 
+* Microfinance Management System.
+* E-passbook (Apps)
+* Inventory Management System.
 
 
+### 💡 &nbsp; Skills
+* Test Planning: Scoping, estimates, strategy, presentation, coordination. 
+* Test Case Management: Managing test cases with/without requirements/designed docs.
+* Defect Management: Tracking, Reporting, and defect triage.
+* Test Execution: Android/iOS Native and Web, Rest API.
+* Test Types: Functional, Regressions, Integration, System, UAT, Load/Stress/Performance Testing.
+* Automation Tools: Selenium Web Driver, SeleniumBase, Cypress, Appium, Pytest, Mocha, Jenkins, Docker.
+* Automation Language: Python, JavaScript.
+* Automated Apps: Native, Hybrid, Desktop and Web Applications.
+* API Tools: Postman, Cypress.
+* Database: MariaDB, MySQL.
+* Performance Tools: JMeter, Gatling, K6.
+* Build and Release: Jenkins, Github.
+* Cloud: AWS, Linode, DigitalOcean.
+* Code Review: SonarQube.
+* Cloud: AWS, Linode, DigitalOcean.
+* VAPT: Acunetix, Burp Suite.
+* Monitor/Logging: Grafana, Splunk.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arman-nafi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/armannafi2288)  
+### 🎓 &nbsp; Education
+* BSc in Computer Science & Engineering. Bangladesh University, Dhaka
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arman-nafi)](https://github.com/ryo-ma/github-profile-trophy)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arman-nafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arman-nafi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-nafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-nafi)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arman-nafi&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arman-nafi&show_icons=true)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arman-nafi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=arman-nafi)  
+---
+[![](https://visitcount.itsvg.in/api?id=arman-nafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Profile views](https://gpvc.arturio.dev/arman-nafi)
-
-  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

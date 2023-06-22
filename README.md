@@ -48,7 +48,7 @@ Dedicated QA Automation Engineer bringing 4+ years of experience and diligence t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-nafi&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arman-nafi&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=arman-nafi&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arman-nafi&limit=5&theme=onedark&combine_all_yearly_contributions=true)

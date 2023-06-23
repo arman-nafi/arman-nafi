@@ -1,4 +1,4 @@
-### ![SQA Automation Engineer](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/352539075_624627402711622_7659032182930767050_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEQmusAYdkAkR0MEUGp4DB0L3M6vPjKvxAvczq8-Mq_EEXJrp40Gj0XjxXRGVnWqKJyb0_gknf_GMXufgqF9Nx2&_nc_ohc=2ZCnCf6E6BYAX95GSZ4&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AfCxCxIJgA_fXMPdK_Jsb8gXgsH1KvwwZT_STpQoAEPPhg&oe=6486DEFD)
+### ![SQA Automation Engineer](https://github.com/arman-nafi/arman-nafi/blob/main/Github%20Banner.png)
 
 
 ## 💫 About Me:

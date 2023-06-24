@@ -7,6 +7,7 @@ Dedicated QA Automation Engineer bringing 4+ years of experience and diligence t
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=ef5350&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:armannafi22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arman-hossain-094131193/) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/armannafi2288/)  
 
 # 💻 Tech Stack:

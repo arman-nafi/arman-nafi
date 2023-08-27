@@ -15,13 +15,13 @@ Dedicated QA Automation Engineer bringing 4+ years of experience and diligence t
 
 ### :office: &nbsp;WORK HISTORY
 
-##### **TMSS ICT Limited, SQA Automation Engineer**, 01/2019 - Present | West Kazipara, Mirpur-10, Dhaka
+##### **TMSS ICT Limited, SQA Automation Engineer**, 01/01/2019 - 31/07/2023 | West Kazipara, Mirpur-10, Dhaka
 ##### **TECHNOLOGY USED:** PYTHON, JAVASCRIPT, SELENIUM, CYPRESS, APPIUM, JMeter, POSTMAN, GATLING, JENKINS, DOCKER, GIT, GitHub, JIRA 
 * Microfinance Management System.
 * E-passbook (Apps)
 * Inventory Management System.
 
-##### **Genex Infosys Limited, SQA Engineer - Advance Level**, 01/2023 - Present | GPHOUSE, Bashundhara, Baridhara, Dhaka-1229
+##### **Genex Infosys Limited, SQA Engineer - Advance Level**, 01/08/2023 - Present | GPHOUSE, Bashundhara, Baridhara, Dhaka-1229
 * Worked on Grameenphone Agile Department.
 * Fixed Asset Management.
 

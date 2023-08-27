@@ -21,6 +21,10 @@ Dedicated QA Automation Engineer bringing 4+ years of experience and diligence t
 * E-passbook (Apps)
 * Inventory Management System.
 
+##### **Genex Infosys Limited, SQA Engineer - Advance Level**, 01/2023 - Present | GPHOUSE, Bashundhara, Baridhara, Dhaka-1229
+* Worked on Grameenphone Agile Department.
+* Fixed Asset Management.
+
 
 ### 💡 &nbsp; Skills
 * Test Planning: Scoping, estimates, strategy, presentation, coordination. 

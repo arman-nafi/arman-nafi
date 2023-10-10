@@ -34,14 +34,13 @@ Dedicated QA Automation Engineer bringing 4+ years of experience and diligence t
 * Test Types: Functional, Regressions, Integration, System, UAT, Load/Stress/Performance Testing.
 * Automation Tools: Selenium Web Driver, SeleniumBase, Cypress, Appium, Pytest, Mocha, Jenkins, Docker.
 * Automation Language: Python, JavaScript.
-* Automated Apps: Native, Hybrid, Desktop and Web Applications.
+* Automated Apps: Native, Hybrid, Desktop, and Web Applications.
 * API Tools: Postman, Cypress.
 * Database: MariaDB, MySQL.
 * Performance Tools: JMeter, Gatling, K6.
 * Build and Release: Jenkins, Github.
 * Cloud: AWS, Linode, DigitalOcean.
 * Code Review: SonarQube.
-* Cloud: AWS, Linode, DigitalOcean.
 * VAPT: Acunetix, Burp Suite.
 * Monitor/Logging: Grafana, Splunk.
 

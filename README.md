@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-Dedicated QA Automation Engineer bringing 4+ years of experience and diligence to handle the needs of large and complex products. Solid history in both manual and automated testing. My areas of expertise cover Web and Mobile Application QA, API Automation Testing, CI-CD, Performance Testing, Penetration Testing, Test Plans, and Test Cases Development.
+I am passionate about automating the software delivery process and ensuring the highest quality products are delivered.  I have a strong foundation in the Software Development Life Cycle (SDLC) and experience working on projects that involve application development, testing, deployment, and monitoring.  My areas of expertise cover Cloud Management, CI/CD, Domain Knowledge, Automation Testing, Performance Testing, and Penetration Testing.
 
 
 ## 🌐 Socials:

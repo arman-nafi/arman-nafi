@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-I am passionate about automating the software delivery process and ensuring the highest quality products are delivered.  I have a strong foundation in the Software Development Life Cycle (SDLC) and experience working on projects that involve application development, testing, deployment, and monitoring.  My areas of expertise cover Cloud Management, CI/CD, Domain Knowledge, Automation Testing, Performance Testing, and Penetration Testing.
+Automation enthusiast with over (5+) years of experience in Information Technology. I am passionate about automating the software delivery process and ensuring the highest quality products are delivered. I have a strong foundation in the Software Development Life Cycle (SDLC) and experience working on projects that involve application testing, deployment, and monitoring. My areas of expertise cover Cloud Management, CI/CD, Containerization, Automation Testing, Penetration Testing, Monitoring and Performance optimization.
 
 
 ## 🌐 Socials:
@@ -33,7 +33,7 @@ I am passionate about automating the software delivery process and ensuring the 
 * Test Execution: Android/iOS Native and Web, Rest API.
 * Test Types: Functional, Regressions, Integration, System, UAT, Load/Stress/Performance Testing.
 * Automation Tools: Selenium Web Driver, SeleniumBase, Cypress, Appium, Pytest, Mocha, Jenkins, Docker.
-* Automation Language: Python, JavaScript.
+* Automation Language: Bash, Python.
 * Automated Apps: Native, Hybrid, Desktop, and Web Applications.
 * API Tools: Postman, Cypress.
 * Database: MariaDB, MySQL.

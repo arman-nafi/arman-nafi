@@ -16,7 +16,7 @@ Automation enthusiast with over (5+) years of experience in Information Technolo
 ### :office: &nbsp;WORK HISTORY
 
 ##### **TMSS ICT Limited, SQA Automation Engineer**, 01/01/2019 - 31/07/2023 | West Kazipara, Mirpur-10, Dhaka
-##### **TECHNOLOGY USED:** PYTHON, JAVASCRIPT, SELENIUM, CYPRESS, APPIUM, JMeter, POSTMAN, GATLING, JENKINS, DOCKER, GIT, GitHub, JIRA 
+##### **TECHNOLOGY USED:** PYTHON, SELENIUM, APPIUM, JMeter, POSTMAN, GATLING, AWS, JENKINS, DOCKER, GIT, GitHub, JIRA, NGINX, MySQL 
 * Microfinance Management System.
 * E-passbook (Apps)
 * Inventory Management System.
